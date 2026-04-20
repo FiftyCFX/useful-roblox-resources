@@ -162,6 +162,7 @@ If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without t
 
 | Tool | Creator | Description |
 |:----|:----|:----|
+| [Metain](https://metain.dev) | [Metain Team](https://metain.dev) | AI assistant that generates Luau scripts, UI, and animations for Roblox Studio from natural-language prompts. Browser-based chat syncs live to Studio via an open-source plugin. |
 | OpenCloudTools ([DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (if you are on Linux, you have to compile it yourself, unfortunately) that allows you to interact with Roblox’s Open Cloud API. This means you can edit DataStores and publish contents with MessagingService outside of Roblox environment! |
 | PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 | [Rojo](https://rojo.space) | [The Rojo Team](https://github.com/rojo-rbx) | Rojo is a project management tool designed to get professional resources in the hands of Roblox developers. |
